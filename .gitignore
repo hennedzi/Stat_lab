@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+/graphs
+__pycache__/
